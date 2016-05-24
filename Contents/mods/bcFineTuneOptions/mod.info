@@ -2,7 +2,8 @@ name=blindcoder Fine Tuning for Sandbox Options
 poster=bcFineTune.png
 description=Fine tuning options for sandbox games, specifically water and electricity shutoff.
 id=bcFineTune
+require=bcUtils
 
-modversion=0.1.0
+modversion=0.1.1
 pzversion=32.24
 versionurl=https://raw.githubusercontent.com/blind-coder/pz-bcfinetune/master/mod.info
